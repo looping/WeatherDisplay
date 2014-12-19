@@ -1,0 +1,19 @@
+{
+  "name": "WeatherDisplay",
+  "version": "2014.12.19",
+  "source": {
+    "git": "http://github.com/looping/weatherdisplay.git",
+    "tag": "2014.12.19"
+  },
+  "source_files": "WeatherDisplay/src/**/*.{h,m}",
+  "resources": "WeatherDisplay/src/**/*.{png,jpg,jpeg,wav,xib,strings}",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "6.0"
+  },
+  "dependencies": {
+    "AFNetWorking": [
+
+    ]
+  }
+}
